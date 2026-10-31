@@ -1,11 +1,11 @@
 {
     "id": "CharlesWorkshop",
     "name": "Charles Workshop",
-    "Author": [
+    "author": [
         "Unknow102"
     ],
-    "Description": "First try of making a mod",
-    "Prefix": "CW",
+    "description": "First try of making a mod",
+    "prefix": "CW",
     "main_file": "main.lua",
     "priority": 0,
     "badge_colour": "9C0105",
