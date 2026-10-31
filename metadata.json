@@ -1,0 +1,15 @@
+{
+    "id": "CharlesWorkshop",
+    "name": "Charles Workshop",
+    "Author": [
+        "Unknow102"
+    ],
+    "Description": "First try of making a mod",
+    "Prefix": "CW",
+    "main_file": "main.lua",
+    "priority": 0,
+    "badge_colour": "9C0105",
+    "badge_text_colour": "000000",
+    "display_name": "Charles Workshop",
+    "version": "1.0.0"
+}
